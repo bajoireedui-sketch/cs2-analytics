@@ -1,0 +1,10 @@
+awpy>=3.1.2
+polars>=1.0
+pandas
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+python-multipart
+C:\Users\user\AppData\Local\Python\pythoncore-3.15-64\python.exe -m streamlit run app.py
